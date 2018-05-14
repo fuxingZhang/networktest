@@ -141,6 +141,7 @@ export default {
       this.average = 0;
       this.button = "开始";
       this.running = false;
+      this.length = 0;
       this.option.series[0].data[0].value = 0
       this.option.series[1].data[0].value = 0
       this.myChart.setOption(this.option);

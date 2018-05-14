@@ -9,6 +9,8 @@
   "author": "zfx",
   "license": "ISC",
   "dependencies": {
+    "ali-oss": "^5.2.0",
+    "aws-sdk": "^2.238.1",
     "busboy": "^0.2.14",
     "koa": "^2.5.1",
     "koa-body": "^2.5.0",
