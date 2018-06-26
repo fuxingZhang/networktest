@@ -1,5 +1,5 @@
 # Network Test
-Network test based on vue, angular
+Network test based on vue, koa2
 
 ## 线上演示地址  
 http://39.108.115.22:8200  （ali centos: 1 CPU, 1G, 1M）
@@ -8,7 +8,7 @@ http://39.108.115.22:8200  （ali centos: 1 CPU, 1G, 1M）
 ```  
 networktest-angular
 ├── ali-oss              // ali oss目录
-├── front                // 前端angular目录
+├── front                // 前端vue目录
 ├── node_modules         
 ├── public               // 打包后的静态文件
 ├── routes               // 后端路由
