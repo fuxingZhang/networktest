@@ -21,7 +21,7 @@ networktest-angular
 ├── config.js            // 配置文件
 ├── index.js             // 入口文件
 ├── package.json         // node module dependencies
-└── README.md           // readme file
+└── README.md            // readme file
 ```  
 
 ## 相关项目  
